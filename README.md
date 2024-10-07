@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+<p align="center">
 <a href="https://www.linkedin.com/in/ian-binstock-812298331"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-
 [![Binny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnyboy1)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!--
 **Binnyboy1/Binnyboy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
