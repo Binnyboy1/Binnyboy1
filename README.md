@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://www.linkedin.com/in/ian-binstock-812298331"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 [![Binny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binnyboy1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
